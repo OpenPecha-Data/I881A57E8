@@ -1,0 +1,26 @@
+id: I881A57E8
+initial_creation_type: ebook
+source_metadata:
+  id: BEN-LB-015
+  title: རེག་ཟིག་ཨ་ཁུ་སྤྱི་དཔོན།
+  author: བན་ཆེན་ལེགས་བཤད་རྒྱུན་སྐྱོང་ཁང༌།
+  authors: &id001
+  - བན་ཆེན་ལེགས་བཤད་རྒྱུན་སྐྱོང་ཁང༌།
+  sku: BEN-LB-015
+  cover: Cover.jpg
+  volume: {}
+ebook_metadata:
+  title: རེག་ཟིག་ཨ་ཁུ་སྤྱི་དཔོན།
+  authors: *id001
+  sku: BEN-LB-015
+  cover: Cover.jpg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
+- Yigchung
