@@ -3,19 +3,19 @@ initial_creation_type: ebook
 source_metadata:
   id: BEN-LB-015
   title: རེག་ཟིག་ཨ་ཁུ་སྤྱི་དཔོན།
-  author: བན་ཆེན་ལེགས་བཤད་རྒྱུན་སྐྱོང་ཁང༌།
-  authors: &id001
-  - བན་ཆེན་ལེགས་བཤད་རྒྱུན་སྐྱོང་ཁང༌།
+  author: ''
+  authors: &id001 []
   sku: BEN-LB-015
   cover: Cover.jpg
   volume: {}
+  publisher: བན་ཆེན་ལེགས་བཤད་རྒྱུན་སྐྱོང་ཁང།
+  author_source: none
 ebook_metadata:
   title: རེག་ཟིག་ཨ་ཁུ་སྤྱི་དཔོན།
   authors: *id001
   sku: BEN-LB-015
   cover: Cover.jpg
 layers:
-- Author
 - BookNumber
 - BookTitle
 - Chapter
